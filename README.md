@@ -12,7 +12,7 @@
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="48" height="48" style="margin-right: 15px; border-radius:50%; box-shadow: 0 2px 8px #0077b5;">
   </a>
   <a href="https://instagram.com/abhishek.chauhan1172" target="_blank" title="Instagram">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="48" height="48" style="border-radius:50%; box-shadow: 0 2px 8px #e1306c;">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="48" height="48" style="border-radius:50%; box-shadow: 0 2px 8px #e1306c;"> 
   </a>
 </p>
 
