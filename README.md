@@ -7,9 +7,14 @@
 
 ## Get In Touch :
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-chauhan00/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhishek_chauhan1172)
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhishek-chauhan00/" target="_blank" title="LinkedIn">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="48" height="48" style="margin-right: 15px; border-radius:50%; box-shadow: 0 2px 8px #0077b5;">
+  </a>
+  <a href="https://instagram.com/abhishek.chauhan1172" target="_blank" title="Instagram">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="48" height="48" style="border-radius:50%; box-shadow: 0 2px 8px #e1306c;">
+  </a>
+</p>
 
 
 ## 🛠️ Languages & Tools
