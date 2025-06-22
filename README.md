@@ -7,12 +7,11 @@
 
 ## Get In Touch :
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((http://www.linkedin.com/in/abhishek-chauhan00)/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-chauhan00/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhishek_chauhan1172)
 
 
-## Languages and Tools: 
 ## 🛠️ Languages & Tools
 
 <p align="center">
